@@ -24,8 +24,7 @@ A proof of concept neural network that produces the complement of a given color.
 
 ## Videos
 
-SethBling: MarI/O - Machine Learning for Video Games
-https://www.youtube.com/watch?v=qv6UVOQ0F44
+SethBling: [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44)
 
-Welch Labs: Neural Networks Demystified
-https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU
+Welch Labs: [Neural Networks Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
+
