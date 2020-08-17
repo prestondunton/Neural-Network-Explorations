@@ -2,6 +2,8 @@
 
 A proof of concept neural network that produces the complement of a given color.
 
+<img src="/CNNREADMEImage.png" alt="Tested Image" width="40%" height="40%">
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ## About the Program
